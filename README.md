@@ -1,3 +1,3 @@
 # First-GIT-Project
 First ever project in my entire life...
-Author of this Project: Miss Anusha Khan.
+Author of this Project: Anusha Khan.
